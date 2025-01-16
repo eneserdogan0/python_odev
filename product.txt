@@ -1,0 +1,3 @@
+Eti Tutku,abur-cubur,20,100
+Eti crax,abur-cubur,50,200
+Eti gong, fastfood,10,150
